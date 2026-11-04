@@ -3,12 +3,12 @@
 ### Java Full Stack Developer | MERN Stack Developer
 
 - 🌱 Currently learning JDBC, Hibernate & Spring Boot.
-- 💻 Interested in Backend Development.
+- 💡 Interested in Full Stack Development, Generative AI, RAG (Retrieval-Augmented Generation), Vector Embeddings, Apache Kafka, and          LangChain.
 - 🚀 Building real-world projects.
 
 ## 🛠️ Tech Stack
 Java | JavaScript | React.js | Node.js
-Express.js | MongoDB | MySQL | JDBC
+Express.js | MongoDB | MySQL | PostgreSQL | JDBC
 
 ## 🚀 Featured Projects
 
