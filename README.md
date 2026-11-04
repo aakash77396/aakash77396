@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Aakash Kumar 👋
 
-<!--
-**aakash77396/aakash77396** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Java Full Stack Developer | MERN Stack Developer
 
-Here are some ideas to get you started:
+- 🌱 Currently learning JDBC, Hibernate & Spring Boot.
+- 💻 Interested in Backend Development.
+- 🚀 Building real-world projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+Java | JavaScript | React.js | Node.js
+Express.js | MongoDB | MySQL | JDBC
+
+## 🚀 Featured Projects
+
+### 1. Task Manager API
+A RESTful API to create, manage, update and delete tasks.
+Tech: Node.js, Express, MySQL, REST API
+
+### 2. CampusMitra
+A social media platform for students.
+Tech: React, Node.js, Express, MongoDB
+
+### 3. Simulated AutoScaleX
+Real-Time Monitoring & Dynamic Server Scaling System.
+Tech: React, Node.js, Express, MongoDB, AWS EC2
+
+## 📫 Connect With Me
+- LinkedIn: [Your LinkedIn URL](https://www.linkedin.com/in/eraakashkumar/)
+- Email: kumaraakash77396@gmail.com
